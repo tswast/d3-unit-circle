@@ -1,7 +1,98 @@
 [
 {
-
+  "degrees": 0,
+  "radians": "0",
+  "cos": "1",
+  "sin": ""
 },
 {
+  "degrees": 30,
+  "radians": "π / 6",
+  "cos": "√(3) / 2",
+  "sin": "1 / 2"
 },
+{
+  "degrees": 45,
+  "radians": "π / 4",
+  "cos": "√(2) / 2",
+  "sin": "√(2) / 2"
+},
+{
+  "degrees": 60,
+  "radians": "π / 3",
+  "cos": "1 / 2",
+  "sin": "√(3) / 2"
+},
+{
+  "degrees": 90,
+  "radians": "π / 2",
+  "cos": "",
+  "sin": "1"
+},
+{
+  "degrees": 120,
+  "radians": "2π / 3",
+  "cos": "-1 / 2",
+  "sin": "√(3) / 2"
+},
+{
+  "degrees": 135,
+  "radians": "3π / 4",
+  "cos": "-√(2) / 2",
+  "sin": "√(2) / 2"
+},
+{
+  "degrees": 150,
+  "radians": "5π / 6",
+  "cos": "-√(3) / 2",
+  "sin": "1 / 2"
+},
+{
+  "degrees": 180,
+  "radians": "π",
+  "cos": "-1",
+  "sin": ""
+},
+{
+  "degrees": 210,
+  "radians": "7π / 6",
+  "cos": "-√(3) / 2",
+  "sin": "-1 / 2"
+},
+{
+  "degrees": 225,
+  "radians": "5π / 4",
+  "cos": "-√(2) / 2",
+  "sin": "-√(2) / 2"
+},
+{
+  "degrees": 240,
+  "radians": "4π / 3",
+  "cos": "-1 / 2",
+  "sin": "-√(3) / 2"
+},
+{
+  "degrees": 270,
+  "radians": "3π / 2",
+  "cos": "",
+  "sin": "-1"
+},
+{
+  "degrees": 300,
+  "radians": "5π / 3",
+  "cos": "1 / 2",
+  "sin": "-√(3) / 2"
+},
+{
+  "degrees": 315,
+  "radians": "7π / 4",
+  "cos": "√(2) / 2",
+  "sin": "-√(2) / 2"
+},
+{
+  "degrees": 330,
+  "radians": "11π / 6",
+  "cos": "√(3) / 2",
+  "sin": "-1 / 2"
+}
 ]
